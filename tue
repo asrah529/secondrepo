@@ -6,3 +6,4 @@ import random
 print(random.randint(0,9))
 
 print("hello world")
+x=90
