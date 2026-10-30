@@ -1,5 +1,7 @@
 x = 100
-y = 100
+y = 80
+z = x+y
+print(z)
 
 # To take inputs from the user
 #x = input('Enter value of x: ')
